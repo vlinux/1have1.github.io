@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a5 as o}from"./chunks/framework.Dc22AnBK.js";const p=JSON.parse('{"title":"束修须知","description":"","frontmatter":{},"headers":[],"relativePath":"shuxiu.md","filePath":"shuxiu.md"}'),r={name:"shuxiu.md"},i=o("",6),s=[i];function c(h,l,n,d,_,u){return t(),e("div",null,s)}const f=a(r,[["render",c]]);export{p as __pageData,f as default};
