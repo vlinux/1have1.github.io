@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a5 as o}from"./chunks/framework.Dc22AnBK.js";const m=JSON.parse('{"title":"全修班","description":"","frontmatter":{},"headers":[],"relativePath":"post/dizi.md","filePath":"post/dizi.md"}'),i={name:"post/dizi.md"},r=o("",16),l=[r];function s(c,n,d,h,p,_){return t(),e("div",null,l)}const b=a(i,[["render",s]]);export{m as __pageData,b as default};
