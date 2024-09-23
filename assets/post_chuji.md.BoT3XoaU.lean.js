@@ -1,1 +1,0 @@
-import{_ as a,c as l,o as i,a5 as e}from"./chunks/framework.Dc22AnBK.js";const b=JSON.parse('{"title":"初级班","description":"","frontmatter":{},"headers":[],"relativePath":"post/chuji.md","filePath":"post/chuji.md"}'),t={name:"post/chuji.md"},o=e("",24),r=[o];function p(c,s,h,n,d,u){return i(),l("div",null,r)}const m=a(t,[["render",p]]);export{b as __pageData,m as default};
