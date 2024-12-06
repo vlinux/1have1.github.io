@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as r,a5 as t}from"./chunks/framework.Dc22AnBK.js";const b=JSON.parse('{"title":"紫微斗数","description":"","frontmatter":{},"headers":[],"relativePath":"post/dizi.md","filePath":"post/dizi.md"}'),i={name:"post/dizi.md"},o=t("",46),h=[o];function l(d,n,s,c,p,_){return r(),e("div",null,h)}const q=a(i,[["render",l]]);export{b as __pageData,q as default};
